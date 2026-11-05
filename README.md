@@ -4,6 +4,8 @@ A beautiful, interactive soccer tactics and coaching studio.
 
 **Live Demo: [Open pitchlab](https://pitchlab-studio.vercel.app)**
 
+**Source:** [github.com/yoonmax/pitchlab](https://github.com/yoonmax/pitchlab)
+
 ![A winger overlap on the pitchlab board, paused mid-play, with the timeline showing possession moving between players](docs/hero.png)
 
 ## Overview
